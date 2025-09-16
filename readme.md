@@ -12,27 +12,27 @@ This brand kit contains all essential visual assets for the Sova brand identity.
 
 ## Directory Structure
 
-Sova_BRAND_KIT/
-├── Sova_LOGO/
+SOVA_BRAND_KIT/
+├── SOVA_LOGO/
 │   ├── COLOR/
-│   │   ├── Sova_LOGO_COLOR.jpg
-│   │   ├── Sova_LOGO_COLOR.png
-│   │   └── Sova_LOGO_COLOR.svg
+│   │   ├── SOVA_LOGO_COLOR.jpg
+│   │   ├── SOVA_LOGO_COLOR.png
+│   │   └── SOVA_LOGO_COLOR.svg
 │   └── MONO/
-│       ├── Sova_LOGO_BLACK.jpg
-│       ├── Sova_LOGO_BLACK.png
-│       ├── Sova_LOGO_BLACK.svg
-│       ├── Sova_LOGO_WHITE.png
-│       └── Sova_LOGO_WHITE.svg
-├── Sova_PFP/
-│   ├── Sova_PFP_COLOR_ROUND.png
-│   └── Sova_PFP_COLOR.jpg
-└── Sova_PRIME_LOGOS/
-├── Sova_PRIME_BLACK_GREEN_LOGO/
-└── Sova_PRIME_WHITE_GREEN_LOGO/
-├── Sovaprime_white_green.pdf
-├── Sovaprime_white_green.png
-└── Sovaprime_white_green.svg
+│       ├── SOVA_LOGO_BLACK.jpg
+│       ├── SOVA_LOGO_BLACK.png
+│       ├── SOVA_LOGO_BLACK.svg
+│       ├── SOVA_LOGO_WHITE.png
+│       └── SOVA_LOGO_WHITE.svg
+├── SOVA_PFP/
+│   ├── SOVA_PFP_COLOR_ROUND.png
+│   └── SOVA_PFP_COLOR.jpg
+└── SOVA_PRIME_LOGOS/
+    ├── SOVA_PRIME_BLACK_GREEN_LOGO/
+    └── SOVA_PRIME_WHITE_GREEN_LOGO/
+        ├── sovaprime_white_green.pdf
+        ├── sovaprime_white_green.png
+        └── sovaprime_white_green.svg
 
 ## Logo Usage Guidelines
 
