@@ -3,37 +3,6 @@
 ## Overview
 This brand kit contains all essential visual assets for the Sova brand identity. Sova represents the evolution of Bitcoin, built as a modular EVM-compatible chain that interacts directly with BTC.
 
-## Brand Identity
-
-### Brand Positioning
-- **Tagline**: "Bitcoin is the foundation, Sova is the evolution"
-- **Mission**: Opening the next chapter of Bitcoin's potential through modular EVM-compatible blockchain technology
-- **Key Message**: "BTC doesn't just have to sit idle. With Sova, it earns."
-
-## Directory Structure
-
-SOVA_BRAND_KIT/
-├── SOVA_LOGO/
-│   ├── COLOR/
-│   │   ├── SOVA_LOGO_COLOR.jpg
-│   │   ├── SOVA_LOGO_COLOR.png
-│   │   └── SOVA_LOGO_COLOR.svg
-│   └── MONO/
-│       ├── SOVA_LOGO_BLACK.jpg
-│       ├── SOVA_LOGO_BLACK.png
-│       ├── SOVA_LOGO_BLACK.svg
-│       ├── SOVA_LOGO_WHITE.png
-│       └── SOVA_LOGO_WHITE.svg
-├── SOVA_PFP/
-│   ├── SOVA_PFP_COLOR_ROUND.png
-│   └── SOVA_PFP_COLOR.jpg
-└── SOVA_PRIME_LOGOS/
-    ├── SOVA_PRIME_BLACK_GREEN_LOGO/
-    └── SOVA_PRIME_WHITE_GREEN_LOGO/
-        ├── sovaprime_white_green.pdf
-        ├── sovaprime_white_green.png
-        └── sovaprime_white_green.svg
-
 ## Logo Usage Guidelines
 
 ### Primary Logo Variations
