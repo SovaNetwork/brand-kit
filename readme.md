@@ -1,51 +1,21 @@
-# SOVA Brand Kit
+# Sova Brand Kit
 
 ## Overview
-This brand kit contains all essential visual assets for the SOVA brand identity. SOVA represents the evolution of Bitcoin, built as a modular EVM-compatible chain that interacts directly with BTC.
-
-## Brand Identity
-
-### Brand Positioning
-- **Tagline**: "Bitcoin is the foundation, Sova is the evolution"
-- **Mission**: Opening the next chapter of Bitcoin's potential through modular EVM-compatible blockchain technology
-- **Key Message**: "BTC doesn't just have to sit idle. With Sova, it earns."
-
-## Directory Structure
-SOVA_BRAND_KIT/
-├── SOVA_LOGO/
-│   ├── COLOR/
-│   │   ├── SOVA_LOGO_COLOR.jpg
-│   │   ├── SOVA_LOGO_COLOR.png
-│   │   └── SOVA_LOGO_COLOR.svg
-│   └── MONO/
-│       ├── SOVA_LOGO_BLACK.jpg
-│       ├── SOVA_LOGO_BLACK.png
-│       ├── SOVA_LOGO_BLACK.svg
-│       ├── SOVA_LOGO_WHITE.png
-│       └── SOVA_LOGO_WHITE.svg
-├── SOVA_PFP/
-│   ├── SOVA_PFP_COLOR_ROUND.png
-│   └── SOVA_PFP_COLOR.jpg
-└── SOVA_PRIME_LOGOS/
-├── SOVA_PRIME_BLACK_GREEN_LOGO/
-└── SOVA_PRIME_WHITE_GREEN_LOGO/
-├── sovaprime_white_green.pdf
-├── sovaprime_white_green.png
-└── sovaprime_white_green.svg
+This brand kit contains all essential visual assets for the Sova brand identity. Sova represents the evolution of Bitcoin, built as a modular EVM-compatible chain that interacts directly with BTC.
 
 ## Logo Usage Guidelines
 
 ### Primary Logo Variations
 
 #### 1. Color Logo (Primary)
-- **Files**: `SOVA_LOGO_COLOR.[jpg/png/svg]`
+- **Files**: `Sova_LOGO_COLOR.[jpg/png/svg]`
 - **Usage**: For use on dark backgrounds only
 - **Features**: Green accent with white text
 
 #### 2. Monochrome Logos
-- **Black Logo**: `SOVA_LOGO_BLACK.[jpg/png/svg]`
+- **Black Logo**: `Sova_LOGO_BLACK.[jpg/png/svg]`
   - Use on light/white backgrounds
-- **White Logo**: `SOVA_LOGO_WHITE.[png/svg]`
+- **White Logo**: `Sova_LOGO_WHITE.[png/svg]`
   - Use on dark/black backgrounds
 
 #### 3. Coin/Icon Logo
@@ -53,8 +23,8 @@ SOVA_BRAND_KIT/
 - **Usage**: Profile pictures, app icons, favicons
 - **Background**: Black with green accent
 
-### SOVA Prime Logos
-Special variant logos featuring the "SOVA Prime" branding with green accent lighting effects.
+### Sova Prime Logos
+Special variant logos featuring the "Sova Prime" branding with green accent lighting effects.
 
 ## Color Palette
 
@@ -118,7 +88,7 @@ Special variant logos featuring the "SOVA Prime" branding with green accent ligh
 ## Usage Guidelines
 
 ### Do's
-- ✓ Maintain minimum clear space around logo (equal to the height of the "S" in SOVA)
+- ✓ Maintain minimum clear space around logo (equal to the height of the "S" in Sova)
 - ✓ Use appropriate color variation based on background
 - ✓ Scale proportionally
 - ✓ Use provided color values exactly
@@ -138,10 +108,11 @@ Special variant logos featuring the "SOVA Prime" branding with green accent ligh
 <link rel="icon" type="image/svg+xml" href="/SOVA_PFP_COLOR_ROUND.png">
 
 <!-- Logo in header -->
-<img src="/SOVA_LOGO_COLOR.svg" alt="SOVA" height="40">
+<img src="/SOVA_LOGO_COLOR.svg" alt="Sova" height="40">
 Social Media
+```
 
-### Profile Picture: Use SOVA_PFP_COLOR_ROUND.png
+### Profile Picture: Use Sova_PFP_COLOR_ROUND.png
 Cover/Banner: Use horizontal logo with appropriate padding
 
 ## Support & Contact
@@ -150,4 +121,4 @@ For additional assets, custom implementations, or brand guidelines clarification
 
 License & Usage Rights
 
-All SOVA brand assets are proprietary. Usage requires explicit permission from SOVA. Partners and authorized users must adhere to these brand guidelines.
+All Sova brand assets are proprietary. Usage requires explicit permission from Sova. Partners and authorized users must adhere to these brand guidelines.
