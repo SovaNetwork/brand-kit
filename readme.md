@@ -7,69 +7,150 @@ This brand kit contains all essential visual assets for the Sova brand identity.
 
 ### Primary Logo Variations
 
-#### 1. Color Logo (Primary)
-- **Files**: `Sova_LOGO_COLOR.[jpg/png/svg]`
-- **Usage**: For use on dark backgrounds only
-- **Features**: Green accent with white text
+#### 1. Color Logo - Mint (Dark Backgrounds)
+- **Files**: `SOVA_LOGO_COLOR.[jpg/png/svg]`
+- **Usage**: For use on **dark/black backgrounds** only
+- **Features**: Mint green (`#84F29B`) accent - optimized for dark background contrast
 
-#### 2. Monochrome Logos
-- **Black Logo**: `Sova_LOGO_BLACK.[jpg/png/svg]`
+#### 2. Color Logo - Emerald (Light Backgrounds)
+- **Files**: `SOVA_LOGO_EMERALD.svg`
+- **Usage**: For use on **white/light backgrounds** only
+- **Features**: Emerald green (`#069668`) accent - optimized for light background contrast
+
+#### 3. Monochrome Logos
+- **Black Logo**: `SOVA_LOGO_BLACK.[jpg/png/svg]`
   - Use on light/white backgrounds
-- **White Logo**: `Sova_LOGO_WHITE.[png/svg]`
+- **White Logo**: `SOVA_LOGO_WHITE.[png/svg]`
   - Use on dark/black backgrounds
 
-#### 3. Coin/Icon Logo
-- **Format**: Circular badge with "S" lettermark
-- **Usage**: Profile pictures, app icons, favicons
-- **Background**: Black with green accent
+#### 4. Coin/Icon Logo - Mint (Dark Backgrounds)
+- **Files**: `SOVA_PFP_COLOR.[jpg/png/svg]`, `SOVA_PFP_COLOR_SQUARE.svg`
+- **Format**: Circular/square badge with "S" lettermark
+- **Usage**: Profile pictures, app icons, favicons on dark backgrounds
+- **Colors**: Black (`#191C19`) background with mint green (`#84F29B`) accent
+
+#### 5. Coin/Icon Logo - Emerald (Light Backgrounds)
+- **Files**: `SOVA_PFP_EMERALD.svg`, `SOVA_PFP_EMERALD_SQUARE.svg`
+- **Format**: Circular/square badge with "S" lettermark
+- **Usage**: Profile pictures, app icons, favicons on light backgrounds
+- **Colors**: White (`#FFFFFF`) background with emerald green (`#069668`) accent
 
 ### Sova Prime Logos
 Special variant logos featuring the "Sova Prime" branding with green accent lighting effects.
 
 ## Color Palette
 
-### Primary Colors
+### Primary Brand Greens
 
-#### Sova Black (Base)
-- **Primary**: RGB(25, 28, 25) | HEX #191C19
-- **Variations**:
-  - Black 50: RGB(232, 232, 232) | HEX #E8E8E8
-  - Black 100: RGB(184, 185, 184) | HEX #B8B9B8
-  - Black 200: RGB(149, 151, 149) | HEX #959795
-  - Black 300: RGB(101, 103, 101) | HEX #656765
-  - Black 400: RGB(71, 73, 71) | HEX #474947
-  - Black 600: RGB(23, 25, 23) | HEX #171917
-  - Black 700: RGB(18, 20, 18) | HEX #121412
-  - Black 800: RGB(14, 15, 14) | HEX #0E0F0E
-  - Black 900: RGB(11, 12, 11) | HEX #0B0C0B
+Sova uses two green accent colors depending on background context:
 
-#### Sova Mint (Accent)
-- **Primary**: RGB(132, 242, 155) | HEX #84F29B | Pantone 353c
-- **Variations**:
-  - Mint 50: RGB(243, 254, 245) | HEX #F3FEF5
-  - Mint 100: RGB(217, 251, 224) | HEX #D9FBE0
-  - Mint 200: RGB(198, 249, 209) | HEX #C6F9D1
-  - Mint 300: RGB(173, 246, 188) | HEX #ADF6BC
-  - Mint 400: RGB(157, 245, 175) | HEX #9DF5AF
-  - Mint 600: RGB(120, 220, 141) | HEX #78DC8D
-  - Mint 700: RGB(94, 172, 110) | HEX #5EAC6E
-  - Mint 800: RGB(73, 133, 85) | HEX #498555
-  - Mint 900: RGB(55, 102, 65) | HEX #376541
+| Name | HEX | RGB | Background Usage |
+|------|-----|-----|------------------|
+| **Mint** | `#84F29B` | RGB(132, 242, 155) | Use on **dark/black** backgrounds |
+| **Emerald 500** | `#069668` | RGB(6, 150, 104) | Use on **light/white** backgrounds |
+| **Emerald 600** | `#05855C` | RGB(5, 133, 92) | Hover states on light backgrounds |
+| **Emerald 50** | `#E6F8F2` | RGB(230, 248, 242) | Subtle highlights, light tints |
 
-#### White
-- RGB(255, 255, 255) | HEX #FFFFFF
+**Important:** The mint green provides better contrast and visibility on dark backgrounds, while the deeper emerald provides better contrast on white/light backgrounds.
+
+### Neutrals
+A clean, professional neutral palette for text and backgrounds.
+
+| Name | HEX | RGB | Usage |
+|------|-----|-----|-------|
+| **Neutral 900** | `#15181A` | RGB(21, 24, 26) | Primary text, headings |
+| **Neutral 700** | `#222529` | RGB(34, 37, 41) | Secondary text, dark cards |
+| **Neutral 500** | `#383B3E` | RGB(56, 59, 62) | Body text |
+| **Neutral 300** | `#6F7174` | RGB(111, 113, 116) | Muted text, placeholders |
+| **Neutral 100** | `#9C9D9F` | RGB(156, 157, 159) | Disabled states, subtle text |
+| **Neutral 50** | `#F8F9FA` | RGB(248, 249, 250) | Page backgrounds |
+| **White** | `#FFFFFF` | RGB(255, 255, 255) | Cards, surfaces |
+
+#### Borders
+| Name | HEX | Usage |
+|------|-----|-------|
+| **Border Default** | `#E2E8F0` | Card borders, dividers |
+| **Border Active** | `#069668` | Focus states, active elements |
+
+#### Semantic Colors
+| Name | HEX | Usage |
+|------|-----|-------|
+| **Error/Destructive** | `#DC2626` | Error states, destructive actions |
+| **Warning** | `#F59E0B` | Warning states, caution |
+| **Info** | `#2563EB` | Informational states |
 
 ## Typography
 
-### Primary Typeface
-- **Font**: F37 Aria - Regular
-- **Usage**: Masterbrand & Product logotypes
-- **Characteristics**: Modern, clean, geometric
+### Primary Typeface - Inter
+- **Font**: Inter
+- **Weights**: 400 (Regular), 500 (Medium), 600 (Semibold)
+- **Usage**: UI elements, buttons, body copy
+- **CSS Variable**: `--font-sans`
 
-### Secondary Typeface
-- **Font**: Suisse Intl - Medium
-- **Usage**: Sub headlines & Body copy
-- **Characteristics**: Neutral, highly legible
+### Secondary Typeface - Suisse International
+- **Font**: Suisse Intl
+- **Weights**: 100-900 (Thin to Black), with italic variants
+- **Usage**: Sub headlines, specialized UI text
+- **Characteristics**: Neutral, highly legible Swiss design
+
+### Display Typeface - Newsreader
+- **Font**: Newsreader
+- **Weights**: 400 (Regular), 500 (Medium)
+- **Usage**: Large numbers, financial metrics, premium display text
+- **CSS Variable**: `--font-serif`
+- **Characteristics**: Elegant serif for high-impact numerals
+
+### Monospace Typeface - Roboto Mono
+- **Font**: Roboto Mono
+- **Usage**: Code, addresses, technical data
+- **CSS Variable**: `--font-mono`
+
+## CSS Variables Reference
+
+For developers implementing the brand, use these CSS custom properties:
+
+### Colors
+```css
+/* Brand Greens */
+--mint-500: #84F29B;        /* Use on dark backgrounds */
+--emerald-600: #05855C;
+--emerald-500: #069668;     /* Use on light backgrounds */
+--emerald-50: #E6F8F2;
+
+/* Semantic Mappings (light mode UI) */
+--primary: var(--emerald-500);
+--accent: var(--emerald-500);
+--accent-medium: var(--emerald-500);
+--accent-dark: var(--emerald-600);
+
+/* Neutrals */
+--neutral-900: #15181A;
+--neutral-700: #222529;
+--neutral-500: #383B3E;
+--neutral-300: #6F7174;
+--neutral-100: #9C9D9F;
+--neutral-50: #F8F9FA;
+--white: #FFFFFF;
+
+/* Borders */
+--border-default: #E2E8F0;
+--border-active: var(--emerald-500);
+```
+
+### Typography
+```css
+--font-sans: var(--font-inter);
+--font-serif: var(--font-newsreader);
+--font-mono: var(--font-roboto-mono);
+```
+
+### Border Radius
+```css
+--radius-sm: 8px;
+--radius-default: 16px;
+--radius-lg: 24px;
+--radius-pill: 9999px;
+```
 
 ## File Formats
 
