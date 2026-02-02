@@ -1,7 +1,7 @@
 # Sova Brand Kit
 
 ## Overview
-This brand kit contains all essential visual assets for the Sova brand identity. Sova represents the evolution of Bitcoin, built as a modular EVM-compatible chain that interacts directly with BTC.
+This brand kit contains all essential visual assets for the Sova brand identity. 
 
 ## Logo Usage Guidelines
 
